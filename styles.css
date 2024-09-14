@@ -1,0 +1,26 @@
+h1 {
+    font-size: 55px;
+    background-color: blue;
+    text-align: center;
+
+}
+
+#h1title {
+    text-align: center;
+}
+
+#listmain {
+    background-color:aqua;
+}
+
+div {
+    background-color: green;
+}
+
+.list {
+    background-color: aquamarine;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace
+}
